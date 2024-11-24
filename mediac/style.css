@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 790px) {
+
+    body{
+        padding: 10px;
+    }
+
+    header{
+        flex-direction: column;
+    }
+
+    img{
+        width: 600px;
+    }
+
+
+    ul{
+        flex-wrap: wrap;
+    }
+
+    li{
+        padding: 20px 5px;
+    }
+
+    #sec-conteiner{
+        align-items: center;
+    }
+
+    .texto{
+        padding-left: 20px;
+    }
+
+
+    form{
+        margin: 0 auto;
+    }
+
+    .button{
+        width: 100%;
+    }
+
+    img{
+        display: none;
+    }
+}
